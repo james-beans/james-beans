@@ -43,7 +43,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=james-beans&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="streak stats"/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=james-beans&langs_count=8&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=james-beans-projects&langs_count=8&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
