@@ -9,25 +9,20 @@
 
 <div align="center">
  
- 🔭 
+ 🔭 I am currently available for opportunities **[here](mailto:hello@jamesdev.xyz)**
  
  🌱 I’m currently learning **AWS, Node JS and C**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 💬 **Ask me** about **Node.js, HTML, AWS S3 web hosting... or anything [here](mailto:hello@jamesdev.xyz)**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:hello@jamesdev.xyz">
+    <img src="https://img.shields.io/badge/email me-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://jamesdev.xyz" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -36,8 +31,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,javascript,html,css,tailwind" />
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,aws,c,nodejs,python," /><br>
+    <img src="https://skillicons.dev/icons?i=firebase,aws,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=c,nodejs,python,rust" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" /><br>
 </div>
 
 <br/>
@@ -56,7 +53,9 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    
+⚡ **Quote**<br> The programmers of tomorrow are the wizards of the future.<br> You're going to look like you have magic powers compared to everybody else. <br> **-- [Gabe Newell](https://www.azquotes.com/quote/815686) --**
+
 </div>
 
 <br/>
