@@ -9,8 +9,8 @@
 <summary><h2>👤 About me 👤</h2></summary>
     <br>
 <div align="center"> 
-    <a href="https://blog.jamesdev.xyz">
-        <img src="https://custom-icon-badges.demolab.com/badge/-My Blog-orange?style=for-the-badge&logo=website&logoColor=white" />
+    <a href="https://jamesdev.xyz">
+        <img src="https://custom-icon-badges.demolab.com/badge/-My Website-orange?style=for-the-badge&logo=website&logoColor=white" />
       </a>
     <br>
   <a href="mailto:hello@jamesdev.xyz">
