@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-<h3 align="center">I am a programmer from the UK (🇬🇧) </h3>
+<h3 align="center">I am a student learning programming in the UK (🇬🇧) </h3>
 
 <br/>
 
