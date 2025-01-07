@@ -34,7 +34,7 @@
  
  🔭 I am almost always available for opportunities **[here](mailto:hello@jamesdev.xyz)**
  
- 🌱 I’m currently learning **[C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C++), [Python](https://python.org), [Git](https://git-scm.com) and [AWS](https://aws.amazon.com)**
+ 🌱 I’m currently learning **[C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C++), [Python](https://python.org) and [Raylib](https://raylib.com)**
 
  <br>
  </div>
