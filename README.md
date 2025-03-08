@@ -34,7 +34,7 @@
  
  🔭 I am almost always available for opportunities **[here](mailto:hello@jamesdev.xyz)**
  
- 🌱 I’m currently learning **[Rust](https://rust-lang.org) and the [GLFW Rust crate](https://docs.rs/glfw/latest/)**
+ 🌱 I’m currently learning **[Rust](https://rust-lang.org) and [C](https://en.wikipedia.org/wiki/C_(programming_language))**
 
  <br>
  </div>
