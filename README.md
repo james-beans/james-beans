@@ -34,7 +34,7 @@
  
  🔭 I am almost always available for opportunities **[here](mailto:hello@jamesdev.xyz)**
  
- 🌱 I’m currently learning **[Rust](https://rust-lang.org) and [C](https://en.wikipedia.org/wiki/C_(programming_language))**
+ 🌱 I’m currently learning **[Typescript](https://www.typescriptlang.org/), [NPM](https://npmjs.org) and [Deno](https://deno.land)**
 
  <br>
  </div>
