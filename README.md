@@ -34,7 +34,7 @@
  
  🔭 I am almost always available for opportunities **[here](mailto:hello@jamesdev.xyz)**
  
- 🌱 I’m currently learning **[Typescript](https://www.typescriptlang.org/), [NPM](https://npmjs.org) and [Deno](https://deno.land)**
+ 🌱 I’m currently learning **[Typescript](https://www.typescriptlang.org/), [NPM](https://npmjs.com) and [Deno](https://deno.land)**
 
  <br>
  </div>
@@ -51,7 +51,7 @@
     <h3>Languages.</h3>
     <img src="https://skillicons.dev/icons?i=python,nodejs,c,rust" /><br>
     <h3>Web Dev tools.</h3>
-    <img src="https://skillicons.dev/icons?i=javascript,tailwind,css,html" /><br>
+    <img src="https://skillicons.dev/icons?i=typescript,tailwind,css,html" /><br>
     <h3>Main tools.</h3>
     <img src="https://skillicons.dev/icons?i=github,figma,vscode,git" /><br>
 </div>
