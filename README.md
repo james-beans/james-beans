@@ -9,19 +9,19 @@
 <summary><h2>👤 About me 👤</h2></summary>
     <br>
 <div align="center"> 
-    <a href="https://jamesdev.xyz">
+    <!--<a href="https://jamesdev.xyz">
         <img src="https://custom-icon-badges.demolab.com/badge/-My Website-orange?style=for-the-badge&logo=website&logoColor=white" />
       </a>
     <br>
   <a href="mailto:hello@jamesdev.xyz">
     <img src="https://custom-icon-badges.demolab.com/badge/-Email Me-teal?style=for-the-badge&logo=mail&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://github.com/james-beans?tab=overview&from=2024-09-01&to=2024-09-24#-stats-" target="_blank">
      <img src="https://custom-icon-badges.demolab.com/badge/-Stats-palegreen?style=for-the-badge&logoColor=black&logo=trending-up" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     <br>
     <a href="https://github.com/James-Beans?tab=repositories&sort=stargazers">
-        <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+        <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
 </div>
 
