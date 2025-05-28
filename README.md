@@ -16,7 +16,7 @@
   <a href="mailto:hello@jamesdev.xyz">
     <img src="https://custom-icon-badges.demolab.com/badge/-Email Me-teal?style=for-the-badge&logo=mail&logoColor=white" />
   </a> -->
-  <a href="https://github.com/james-beans?tab=overview&from=2024-09-01&to=2024-09-24#-stats-" target="_blank">
+  <a href="https://github.com/james-beans?tab=overview#-stats-" target="_blank">
      <img src="https://custom-icon-badges.demolab.com/badge/-Stats-palegreen?style=for-the-badge&logoColor=black&logo=trending-up" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     <br>
