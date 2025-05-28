@@ -53,7 +53,10 @@
     <h3>Web Dev tools.</h3>
     <img src="https://skillicons.dev/icons?i=typescript,tailwind,css,html" /><br>
     <h3>Main tools.</h3>
-    <img src="https://skillicons.dev/icons?i=github,figma,vscode,git" /><br>
+    <img src="https://skillicons.dev/icons?i=github,figma,vscode,git" /><br><br>
+
+*And some more!*
+    
 </div>
 </details>
 
