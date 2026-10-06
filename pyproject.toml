@@ -1,0 +1,24 @@
+[tool.ruff]
+indent-width = 2
+line-length = 175
+
+[tool.ruff.lint]
+fixable = ["ALL"]
+select = ["E", "F", "I"]
+ignore = [
+  "E111", "E114", # Ignore 4-space indent rules (using 2-space)
+  "E722",         # Allow bare except
+  "E501",         # Allow long lines
+  "E302", "E305", # Prevents mandatory double blank lines
+  "E303"
+]
+
+[tool.ruff.lint.isort]
+length-sort = true
+no-sections = true
+length-sort-straight = true
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false

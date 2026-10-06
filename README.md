@@ -1,16 +1,18 @@
-## Hi there 👋
+I code and create things.
+- [mytoasterisbroken](https://github.com/mytoasterisbroken)
+- [dtree](https://github.com/mytoasterisbroken/dtree)
+- [seven](https://github.com/mytoasterisbroken/seven) *(private)*
+- [kwol](https://github.com/mytoasterisbroken/kwol) *(private)*
+- [storkware](https://github.com/mytoasterisbroken/storkware) *(private)*
 
-<!--
-**james-beans/james-beans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use other projects.
+- [GNU Emacs](https://www.gnu.org/software/emacs/)
+- [GNU Bash](https://www.gnu.org/software/bash/)
+- [oh-my-posh](https://ohmyposh.dev/) *(with [mono-style](https://github.com/james-beans/mono-style))*
 
-Here are some ideas to get you started:
+I learn things.
+- [learn](https://github.com/james-beans/learn)
+- *I am also a British student*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*I recently deleted a lot of my old projects, so don't expect me to have a lot of online Github history. I do have experience though.*
+*I hate web development. Don't ask me to ever do web development.*
