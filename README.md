@@ -1,5 +1,5 @@
 I code and create things.
-- [fclang / fclang++](https://github.com/james-beans/fclang)
+- [![fclang](assets/fclang.gif)](https://github.com/james-beans/fclang)
 - [mytoasterisbroken](https://github.com/mytoasterisbroken)
 - [dtree](https://github.com/mytoasterisbroken/dtree)
 - [seven](https://github.com/mytoasterisbroken/seven) *(private)*
