@@ -13,7 +13,7 @@ I use other projects.
 - [oh-my-posh](https://ohmyposh.dev/) *(with [![mono-style](assets/mono-style.gif)](https://github.com/james-beans/mono-style))*
 
 I learn things.
-- [![learn](assets/learn.gif)](https://github.com/james-beans/learn)
+- [learn](https://github.com/james-beans/learn)
 - *I am also a British student*
 
 *I recently deleted a lot of my old projects, so don't expect me to have a lot of online Github history. I do have experience though.*
