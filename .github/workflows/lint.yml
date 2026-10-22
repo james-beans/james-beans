@@ -31,7 +31,7 @@ jobs:
           fetch-depth: 0
 
       - name: Format files
-        run: find . \( -name "*.hpp" -o -name "*.cpp" -o -name "*.h" -o -name "*.c" \) -not -path "./.git/*" -exec clang-format-22 -i {} +
+        run: find . \( -name "*.hpp" -o -name "*.cpp" -o -name "*.h" -o -name "*.c" -o -name "*.java" \) -not -path "./.git/*" -exec clang-format-22 -i {} +
 
       - name: Configure Git Identity
         run: |
