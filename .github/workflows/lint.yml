@@ -25,13 +25,29 @@ jobs:
           clang-format-22 --version
           rm llvm.sh
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Ruff
+        run: pip install ruff
+
       - name: Checkout code
         uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
       - name: Format files
-        run: find . \( -name "*.hpp" -o -name "*.cpp" -o -name "*.h" -o -name "*.c" -o -name "*.java" \) -not -path "./.git/*" -exec clang-format-22 -i {} +
+        run: |
+          find . \( -name "*.hpp" -o -name "*.cpp" -o -name "*.h" -o -name "*.c" -o -name "*.java" \) -not -path "./.git/*" -exec clang-format-22 -i {} +
+          ruff check --fix .
+          ruff format .
+
+      - name: Enforce custom linting rules Ruff doesn't like
+        shell: bash
+        run: |
+          find . -name "*.py" -exec sed -i ':a;N;$!ba;s/\n\n\n\+/\n\n/g' {} +
 
       - name: Configure Git Identity
         run: |
