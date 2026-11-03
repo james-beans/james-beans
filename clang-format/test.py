@@ -8,17 +8,17 @@ def main():
   grade = input("What letter grade did you get? ").strip().upper()
 
   match grade:
-    case 'A':
+    case "A":
       print("You did great!")
-    case 'B':
+    case "B":
       print("You did good!")
-    case 'C':
+    case "C":
       print("You did okay!")
-    case 'D':
+    case "D":
       print("You passed!")
-    case 'E':
+    case "E":
       print("You barely passed!")
-    case 'F':
+    case "F":
       print("You failed!")
     case _:
       print("You didn't enter a grade between A-F.")
